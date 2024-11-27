@@ -11,6 +11,6 @@ Hooks: useState, useEffect
 Saving data: localStorage  
 Styling: SCSS
 
-##Author
+## Author
 
 Dmytro Papiiants
